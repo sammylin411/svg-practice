@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f4f1e8"/>
+  <rect x="30" y="30" width="740" height="540" fill="none" stroke="#2f3b4c" stroke-width="4"/>
+
+  <circle cx="640" cy="120" r="45" fill="#f0b84d" stroke="#2f3b4c" stroke-width="4"/>
+  <path d="M0 460 Q200 430 400 460 Q620 490 800 450" stroke="#2f3b4c" stroke-width="4" fill="none"/>
+
+  <!-- Bicycle: single-color line art -->
+  <g stroke="#2f3b4c" stroke-width="6" fill="none">
+    <circle cx="255" cy="445" r="58"/>
+    <circle cx="545" cy="445" r="58"/>
+    <circle cx="255" cy="445" r="8" fill="#2f3b4c"/>
+    <circle cx="545" cy="445" r="8" fill="#2f3b4c"/>
+    <path d="M255 445 L368 445 L442 300 L328 300 Z"/>
+    <path d="M368 445 L442 300"/>
+    <path d="M442 300 L545 445"/>
+    <path d="M328 300 L310 260"/>
+    <path d="M288 260 L336 260"/>
+    <path d="M442 300 L434 254"/>
+    <path d="M412 254 L462 254"/>
+    <path d="M255 445 L215 445 L215 424"/>
+  </g>
+  <circle cx="368" cy="445" r="11" stroke="#2f3b4c" stroke-width="5" fill="#f4f1e8"/>
+  <path d="M368 445 L350 480 M368 445 L386 480" stroke="#2f3b4c" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Pelican: white fill, strong outlines -->
+  <ellipse cx="390" cy="288" rx="72" ry="46" fill="#ffffff" stroke="#2f3b4c" stroke-width="4"/>
+  <path d="M322 280 Q300 266 285 275 Q302 288 324 292" fill="#ffffff" stroke="#2f3b4c" stroke-width="4"/>
+  <path d="M368 268 Q412 224 447 276 Q412 293 368 268" fill="#e4e4e4" stroke="#2f3b4c" stroke-width="4"/>
+  <path d="M342 266 Q322 220 342 180" stroke="#ffffff" stroke-width="19" fill="none" stroke-linecap="round"/>
+  <path d="M330 264 Q312 220 334 182" stroke="#2f3b4c" stroke-width="4" fill="none"/>
+  <circle cx="347" cy="170" r="23" fill="#ffffff" stroke="#2f3b4c" stroke-width="4"/>
+  <path d="M368 162 L450 173 Q463 194 446 201 L368 184 Z" fill="#f0b84d" stroke="#2f3b4c" stroke-width="4"/>
+  <path d="M368 184 Q416 217 446 201" fill="#dd9c33" stroke="#2f3b4c" stroke-width="4"/>
+  <circle cx="354" cy="163" r="5" fill="#2f3b4c"/>
+  <path d="M374 326 L368 394 L356 480" stroke="#f0b84d" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M408 326 L424 394 L394 480" stroke="#f0b84d" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M346 480 L372 480 M384 480 L410 480" stroke="#2f3b4c" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="400" y="555" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#2f3b4c" letter-spacing="4">PELICAN CYCLE CLUB</text>
+</svg>
