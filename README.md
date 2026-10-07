@@ -1,2 +1,2 @@
 # svg-practice
-some of my models don't work! 
+some of the models I tried don't work! 
